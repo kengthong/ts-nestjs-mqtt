@@ -1,0 +1,3 @@
+export const MQTT_CLIENT_INSTANCE = 'MQTT_CLIENT_INSTANCE';
+export const MQTT_OPTION_PROVIDER = 'MQTT_OPTION_PROVIDER';
+export const HELLO_TOPIC = 'hello.topic';
